@@ -1,5 +1,5 @@
 console.log("HI");
-let bill=100;
+let bill=200;
 const tip1=bill * 1.15;
 const tip2=bill * 1.20;
 
